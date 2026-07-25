@@ -40,3 +40,8 @@ Live Demo: [Insert Your Vercel / Netlify Link Here]
 
 This project was built as part of the **Digital Heroes Training Task**. 
 Visible verification credit is included in the website footer linking directly to [digitalheroesco.com](https://digitalheroesco.com).
+
+
+## 📋 Documentation & Audit
+
+- 📝 **Optimization Changelog:** Read the full [CHANGELOG.md](./CHANGELOG.md) for performance & accessibility improvements.
